@@ -45,7 +45,13 @@ WHERE {
 `;
 
 writeFileSync(VALIDATION_QUERY, query);
-const results = (await selectRemoteObjects(query, ENDPOINT)).map(prefixAll);
+const results = (await selectRemoteObjects(query, ENDPOINT)).map(prefixAll).map((result) => {
+  // Give a label to rdfs:subClassOf
+  if (result.p === 'rdfs:subClassOf') {
+    result.plabel = 'is a';
+  }
+  return result;
+});
 
 const edgeToString = (edge) => `( <${edge.s}> <${edge.o}> )`;
 const uniqueEdges = new Set(edges.map((input) => edgeToString({ s: input.child, o: input.parent })));

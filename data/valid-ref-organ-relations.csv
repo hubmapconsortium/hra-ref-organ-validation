@@ -26,12 +26,12 @@ ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,par
 ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,part_of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
 ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,part_of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
 ccf:VHFUterus,ccf:VHFUterus,body of uterus,part_of,uterus,UBERON:0009853,BFO:0000050,UBERON:0000995
-ccf:VHMBloodVasculature,ccf:VHMaleOrgans_VH_M_renal_vein,right renal vein,,renal vein,UBERON:0001141,rdfs:subClassOf,UBERON:0001140
-ccf:VHFBloodVasculature,ccf:VHFemaleOrgans_VH_F_renal_vein,right renal vein,,renal vein,UBERON:0001141,rdfs:subClassOf,UBERON:0001140
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_L,outer cortex of kidney,,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_R,outer cortex of kidney,,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_L,outer cortex of kidney,,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_R,outer cortex of kidney,,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
+ccf:VHMBloodVasculature,ccf:VHMaleOrgans_VH_M_renal_vein,right renal vein,is a,renal vein,UBERON:0001141,rdfs:subClassOf,UBERON:0001140
+ccf:VHFBloodVasculature,ccf:VHFemaleOrgans_VH_F_renal_vein,right renal vein,is a,renal vein,UBERON:0001141,rdfs:subClassOf,UBERON:0001140
+ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_L,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
+ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_R,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
+ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_L,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
+ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_R,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
 ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,part_of,urinary bladder,UBERON:0006082,BFO:0000050,UBERON:0001255
 ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,part_of,pancreas,UBERON:0001069,BFO:0000050,UBERON:0001264
 ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,part_of,liver,UBERON:0001117,BFO:0000050,UBERON:0002107
@@ -66,8 +66,8 @@ ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pan
 ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,part_of,right lobe of liver,UBERON:0001149,BFO:0000050,UBERON:0001114
 ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,part_of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
 ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,part_of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,tricuspid valve,,valve,UBERON:0002134,rdfs:subClassOf,UBERON:0003978
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,mitral valve,,valve,UBERON:0002135,rdfs:subClassOf,UBERON:0003978
+ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,tricuspid valve,is a,valve,UBERON:0002134,rdfs:subClassOf,UBERON:0003978
+ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,mitral valve,is a,valve,UBERON:0002135,rdfs:subClassOf,UBERON:0003978
 ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
 ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
 ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,part of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
