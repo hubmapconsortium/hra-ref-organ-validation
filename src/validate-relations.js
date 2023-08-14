@@ -1,53 +1,72 @@
-import { selectCsvRemote, selectRemoteObjects } from './sparql.js';
-import Papa from 'papaparse';
 import { readFileSync, writeFileSync } from 'fs';
+import Papa from 'papaparse';
+import { SPARQL_PREFIXES, prefix, prefixAll } from './prefixes.js';
+import { selectRemoteObjects } from './sparql.js';
 
-const ENDPOINT = 'https://ubergraph.apps.renci.org/sparql';
-const GRAPH = 'http://reasoner.renci.org/redundant';
 const INPUT = 'data/ref-organ-relations.csv';
 const INVALID = 'data/invalid-ref-organ-relations.csv';
 const VALID = 'data/valid-ref-organ-relations.csv';
+const VALIDATION_QUERY = 'data/validate-ref-organ-relations.rq';
 const REPORT = 'data/README.md';
-
 const PREDICATES = [
   'http://www.w3.org/2000/01/rdf-schema#subClassOf',
   'http://purl.obolibrary.org/obo/BFO_0000050',
   'http://purl.obolibrary.org/obo/RO_0001025',
   'http://purl.obolibrary.org/obo/RO_0002100',
-];
+].map(prefix);
+const ENDPOINT = 'https://ubergraph.apps.renci.org/sparql';
 
 const edges = Papa.parse(readFileSync(INPUT).toString(), { header: true }).data;
-const subjectObject = edges.map((edge) => `( <${edge.s}> <${edge.o}> )`).join(' ');
-const predicates = PREDICATES.map((p) => `( <${p}> )`).join(' ');
+const edgeValues = edges
+  .map(({ ref_organ, ref_organ_part, child, parent }) => `( ${ref_organ} ${ref_organ_part} ${child} ${parent} )`)
+  .join(' ');
+const predicates = PREDICATES.map((p) => `( ${p} )`).join(' ');
 
 const query = `
-SELECT ?slabel ?plabel ?olabel ?s ?p ?o
-#FROM <${GRAPH}>
+${SPARQL_PREFIXES}
+
+SELECT DISTINCT ?ref_organ ?ref_organ_part ?slabel ?plabel ?olabel ?s ?p ?o
 WHERE {
-  VALUES (?s ?o) {
-    ${subjectObject}
+  VALUES (?ref_organ ?ref_organ_part ?s ?o) {
+    ${edgeValues}
   }
-  #VALUES (?p) {
-  #  ${predicates}
-  #}
+  VALUES (?p) {
+    ${predicates}
+  }
 
   {
     ?s ?p ?o .
   }
 
-  OPTIONAL { ?s <http://www.w3.org/2000/01/rdf-schema#label> ?slabel . }
-  OPTIONAL { ?p <http://www.w3.org/2000/01/rdf-schema#label> ?plabel . }
-  OPTIONAL { ?o <http://www.w3.org/2000/01/rdf-schema#label> ?olabel . }
+  OPTIONAL { ?s rdfs:label ?slabel . }
+  OPTIONAL { ?p rdfs:label ?plabel . }
+  OPTIONAL { ?o rdfs:label ?olabel . }
 }
 `;
 
-const results = await selectRemoteObjects(query, ENDPOINT);
-writeFileSync(VALID, Papa.unparse(results, { header: true, columns: ['slabel', 'plabel', 'olabel', 's', 'p', 'o'] }));
+writeFileSync(VALIDATION_QUERY, query);
+const results = (await selectRemoteObjects(query, ENDPOINT)).map(prefixAll);
 
-const validEdges = new Set(results.map((edge) => `( <${edge.s}> <${edge.o}> )`));
-const invalidEdges = edges.filter((edge) => !validEdges.has(`( <${edge.s}> <${edge.o}> )`));
+const edgeToString = (edge) => `( <${edge.s}> <${edge.o}> )`;
+const uniqueEdges = new Set(edges.map((input) => edgeToString({ s: input.child, o: input.parent })));
+const validUniqueEdges = new Set(results.map(edgeToString));
+const invalidUniqueEdges = [...uniqueEdges].filter((edge) => !validUniqueEdges.has(edge));
 
-writeFileSync(INVALID, Papa.unparse(invalidEdges, { header: true, columns: ['s', 'o'] }));
+writeFileSync(
+  VALID,
+  Papa.unparse(results, {
+    header: true,
+    columns: ['ref_organ', 'ref_organ_part', 'slabel', 'plabel', 'olabel', 's', 'p', 'o'],
+  })
+);
+
+writeFileSync(
+  INVALID,
+  Papa.unparse(
+    edges.filter((input) => validUniqueEdges.has(edgeToString({ s: input.child, o: input.parent }))),
+    { header: true, columns: ['ref_organ', 'ref_organ_part', 'parent', 'child'] }
+  )
+);
 
 writeFileSync(
   REPORT,
@@ -56,8 +75,8 @@ writeFileSync(
 
 ## Implicit 3D reference organ 'part of' relationships
 
-- [Total relationships](ref-organ-relations.csv): ${results.length}
-- [Valid relationships](valid-ref-organ-relations.csv): ${validEdges.size}
-- [Invalid relationships](invalid-ref-organ-relations.csv): ${invalidEdges.length}
+- [Valid relationships](valid-ref-organ-relations.csv): ${validUniqueEdges.size}
+- [Invalid relationships](invalid-ref-organ-relations.csv): ${invalidUniqueEdges.length}
+- [Total relationships](ref-organ-relations.csv): ${uniqueEdges.size}
 `
 );

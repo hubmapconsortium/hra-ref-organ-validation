@@ -3,6 +3,6 @@
 
 ## Implicit 3D reference organ 'part of' relationships
 
-- [Total relationships](ref-organ-relations.csv): 1768
-- [Valid relationships](valid-ref-organ-relations.csv): 260
-- [Invalid relationships](invalid-ref-organ-relations.csv): 4020
+- [Valid relationships](valid-ref-organ-relations.csv): 57
+- [Invalid relationships](invalid-ref-organ-relations.csv): 1675
+- [Total relationships](ref-organ-relations.csv): 1732

@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "fetch-sparql-endpoint": "^4.0.0",
+    "js-yaml": "^4.1.0",
     "papaparse": "^5.4.1"
   }
 }

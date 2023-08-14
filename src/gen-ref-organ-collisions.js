@@ -1,5 +1,6 @@
 import { writeFileSync } from 'fs';
 import Papa from 'papaparse';
+import { prefixAll } from './prefixes.js';
 
 const OUTPUT = 'data/ref-organ-collisions.jsonld';
 const REGISTRATIONS = 'data/ref-organ-registrations.jsonld';
@@ -62,12 +63,12 @@ const refOrganEntities = (await fetch(REF_ORGAN_SOURCE).then((r) => r.json()))
   .filter((s) => s['@type'] === 'SpatialEntity' && s.reference_organ)
   .map(fixRuiLocation);
 
-const refOrganLookup = refOrganEntities.reduce(
+const partLookup = refOrganEntities.reduce(
   (acc, entity) => ((acc[entity['@id']] = JSON.parse(JSON.stringify(entity))), acc),
   {}
 );
 
-refOrganEntities.forEach((s) => fixPlacement(s, refOrganLookup));
+refOrganEntities.forEach((s) => fixPlacement(s, partLookup));
 
 // Write out derived registrations
 writeFileSync(REGISTRATIONS, JSON.stringify(refOrganEntities, null, 2));
@@ -126,13 +127,17 @@ writeFileSync(OUTPUT, JSON.stringify(jsonld, null, 2));
 
 const relations = [];
 for (const result of results) {
-  const parent = refOrganLookup[result.collision_source].representation_of.replace(
+  const ref_organ_part = result.collision_source;
+  const ref_organ = partLookup[ref_organ_part].reference_organ;
+  const parent = partLookup[ref_organ_part].representation_of.replace(
     'UBERON:',
     'http://purl.obolibrary.org/obo/UBERON_'
   );
   for (const collision of result.collisions) {
     const child = collision.as_id.replace('UBERON:', 'http://purl.obolibrary.org/obo/UBERON_');
-    relations.push({ s: child, o: parent });
+    if (parent !== child) {
+      relations.push(prefixAll({ ref_organ, ref_organ_part, parent, child }));
+    }
   }
 }
 
