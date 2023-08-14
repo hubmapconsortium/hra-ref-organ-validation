@@ -42,7 +42,7 @@ WHERE {
 `;
 
 const results = await selectRemoteObjects(query, ENDPOINT);
-writeFileSync(VALID, Papa.unparse(results, { header: true }));
+writeFileSync(VALID, Papa.unparse(results, { header: true, columns: ['slabel', 'plabel', 'olabel', 's', 'p', 'o'] }));
 
 const validEdges = new Set(results.map((edge) => `( <${edge.s}> <${edge.o}> )`));
 const invalidEdges = edges.filter((edge) => !validEdges.has(`( <${edge.s}> <${edge.o}> )`));
