@@ -126,11 +126,14 @@ writeFileSync(OUTPUT, JSON.stringify(jsonld, null, 2));
 
 const relations = [];
 for (const result of results) {
-  const parent = refOrganLookup[result.collision_source].representation_of.replace('UBERON:', 'http://purl.obolibrary.org/obo/UBERON_');
+  const parent = refOrganLookup[result.collision_source].representation_of.replace(
+    'UBERON:',
+    'http://purl.obolibrary.org/obo/UBERON_'
+  );
   for (const collision of result.collisions) {
     const child = collision.as_id.replace('UBERON:', 'http://purl.obolibrary.org/obo/UBERON_');
-    relations.push({ s: parent, o: child });
+    relations.push({ s: child, o: parent });
   }
 }
 
-writeFileSync(RELATIONS, Papa.unparse(relations, { header: true }))
+writeFileSync(RELATIONS, Papa.unparse(relations, { header: true }));

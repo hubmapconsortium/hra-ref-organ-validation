@@ -6,11 +6,13 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./src/gen-ref-organ-collisions.js"
+    "build": "node ./src/gen-ref-organ-collisions.js",
+    "validate": "node ./src/validate-relations.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "fetch-sparql-endpoint": "^4.0.0",
     "papaparse": "^5.4.1"
   }
 }
