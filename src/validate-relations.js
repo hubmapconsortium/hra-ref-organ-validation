@@ -11,8 +11,8 @@ const REPORT = 'data/README.md';
 const PREDICATES = [
   'http://www.w3.org/2000/01/rdf-schema#subClassOf',
   'http://purl.obolibrary.org/obo/BFO_0000050',
-  'http://purl.obolibrary.org/obo/RO_0001025',
-  'http://purl.obolibrary.org/obo/RO_0002100',
+  'http://purl.obolibrary.org/obo/RO_0002170',
+  'http://purl.obolibrary.org/obo/RO_0002131',
 ].map(prefix);
 const ENDPOINT = 'https://ubergraph.apps.renci.org/sparql';
 
