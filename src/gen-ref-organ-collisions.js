@@ -127,16 +127,28 @@ writeFileSync(OUTPUT, JSON.stringify(jsonld, null, 2));
 
 const relations = [];
 for (const result of results) {
-  const ref_organ_part = result.collision_source;
-  const ref_organ = partLookup[ref_organ_part].reference_organ;
+  const ref_organ_part = result.collision_source.replace(
+    'ccf:',
+    'http://purl.org/ccf/latest/ccf.owl#'
+  );
+  const ref_organ = partLookup[ref_organ_part].reference_organ.replace(
+    'ccf:',
+    'http://purl.org/ccf/latest/ccf.owl#'
+  );
   const parent = partLookup[ref_organ_part].representation_of.replace(
     'UBERON:',
     'http://purl.obolibrary.org/obo/UBERON_'
-  );
-  for (const collision of result.collisions) {
-    const child = collision.as_id.replace('UBERON:', 'http://purl.obolibrary.org/obo/UBERON_');
-    if (parent !== child) {
-      relations.push(prefixAll({ ref_organ, ref_organ_part, parent, child }));
+  );;
+  if (!parent.includes("fma")) {
+    const parent_label = partLookup[ref_organ_part].label;
+    for (const collision of result.collisions) {
+      if (!collision.as_id.includes("fma")) {
+        const child = collision.as_id.replace('UBERON:', 'http://purl.obolibrary.org/obo/UBERON_');
+        const child_label = collision.as_label;
+        if (parent !== child) {
+          relations.push({ ref_organ, ref_organ_part, parent, child, parent_label, child_label });
+        }
+      }
     }
   }
 }
