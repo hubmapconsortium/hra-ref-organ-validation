@@ -25,7 +25,7 @@ const predicates = PREDICATES.map((p) => `( ${p} )`).join(' ');
 const query = `
 ${SPARQL_PREFIXES}
 
-SELECT DISTINCT ?ref_organ ?ref_organ_part ?slabel ?plabel ?olabel ?s ?p ?o
+SELECT DISTINCT ?ref_organ ?ref_organ_part (MIN(?sub_label) AS ?slabel) (MIN(?pred_label) AS ?plabel) (MIN(?obj_label) AS ?olabel) ?s ?p ?o
 WHERE {
   VALUES (?ref_organ ?ref_organ_part ?s ?o) {
     ${edgeValues}
@@ -38,10 +38,11 @@ WHERE {
     ?s ?p ?o .
   }
 
-  OPTIONAL { ?s rdfs:label ?slabel . }
-  OPTIONAL { ?p rdfs:label ?plabel . }
-  OPTIONAL { ?o rdfs:label ?olabel . }
+  OPTIONAL { ?s rdfs:label ?sub_label . }
+  OPTIONAL { ?p rdfs:label ?pred_label . }
+  OPTIONAL { ?o rdfs:label ?obj_label . }
 }
+GROUP BY ?ref_organ ?ref_organ_part ?s ?p ?o
 `;
 
 writeFileSync(VALIDATION_QUERY, query);
@@ -91,7 +92,7 @@ const edgeValues_ = edges_
 const query_ = `
   ${SPARQL_PREFIXES}
   
-  SELECT DISTINCT ?ref_organ ?ref_organ_part ?slabel ?plabel ?olabel ?s ?p ?o
+  SELECT DISTINCT ?ref_organ ?ref_organ_part (MIN(?sub_label) AS ?slabel) (MIN(?pred_label) AS ?plabel) (MIN(?obj_label) AS ?olabel) ?s ?p ?o
   WHERE {
     VALUES (?ref_organ ?ref_organ_part ?s ?o) {
       ${edgeValues_}
@@ -104,10 +105,11 @@ const query_ = `
       ?s ?p ?o .
     }
   
-    OPTIONAL { ?s rdfs:label ?slabel . }
-    OPTIONAL { ?p rdfs:label ?plabel . }
-    OPTIONAL { ?o rdfs:label ?olabel . }
+    OPTIONAL { ?s rdfs:label ?sub_label . }
+    OPTIONAL { ?p rdfs:label ?pred_label . }
+    OPTIONAL { ?o rdfs:label ?obj_label . }
   }
+  GROUP BY ?ref_organ ?ref_organ_part ?s ?p ?o
   `;
   
 writeFileSync(VALIDATION_QUERY, query_);
