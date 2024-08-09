@@ -1,520 +1,269 @@
 ref_organ,ref_organ_part,slabel,plabel,olabel,s,p,o
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_male_genital_duct,seminal vesicle,overlaps,male genital duct,UBERON:0000998,RO:0002131,UBERON:0006947
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_male_genital_duct,seminal vesicle,overlaps,male genital duct,UBERON:0000998,RO:0002131,UBERON:0006947
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_male_genital_duct,seminal vesicle,part of,male genital duct,UBERON:0000998,BFO:0000050,UBERON:0006947
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_male_genital_duct,seminal vesicle,part of,male genital duct,UBERON:0000998,BFO:0000050,UBERON:0006947
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_male_genital_duct,seminal vesicle,part_of,male genital duct,UBERON:0000998,BFO:0000050,UBERON:0006947
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part_of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,part_of,male reproductive system,UBERON:0000998,BFO:0000050,UBERON:0000079
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,part of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHMColon,ccf:VHMColon,rectum,part of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHFLargeIntestine,ccf:VHFLargeIntestine,rectum,part of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,sigmoid colon,part of,large intestine,UBERON:0001159,BFO:0000050,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,rectum,part of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHFLargeIntestine,ccf:VHFLargeIntestine,rectum,part of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,sigmoid colon,part of,large intestine,UBERON:0001159,BFO:0000050,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,rectum,part_of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHFLargeIntestine,ccf:VHFLargeIntestine,rectum,part_of,large intestine,UBERON:0001052,BFO:0000050,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,sigmoid colon,part_of,large intestine,UBERON:0001159,BFO:0000050,UBERON:0000059
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_L,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_R,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_L,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_R,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,part of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMHeart,ccf:VHMHeart,heart right ventricle,part of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart right ventricle,part of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart left ventricle,part of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart left ventricle,part of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,interventricular septum,part of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,interventricular septum,part of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,right cardiac atrium,part of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,right cardiac atrium,part of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,left cardiac atrium,part of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,left cardiac atrium,part of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,tricuspid valve,part of,heart,UBERON:0002134,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,mitral valve,part of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,part of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart right ventricle,part of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart right ventricle,part of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart left ventricle,part of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart left ventricle,part of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,interventricular septum,part of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,interventricular septum,part of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,right cardiac atrium,part of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,right cardiac atrium,part of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,left cardiac atrium,part of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,left cardiac atrium,part of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,tricuspid valve,part of,heart,UBERON:0002134,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,mitral valve,part of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,part of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart right ventricle,part_of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart right ventricle,part_of,heart,UBERON:0002080,BFO:0000050,UBERON:0000948
-ccf:VHFUterus,ccf:VHFUterus,uterine cervix,part of,uterus,UBERON:0000002,BFO:0000050,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,body of uterus,part of,uterus,UBERON:0009853,BFO:0000050,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,uterine cervix,part of,uterus,UBERON:0000002,BFO:0000050,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,body of uterus,part of,uterus,UBERON:0009853,BFO:0000050,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,uterine cervix,part_of,uterus,UBERON:0000002,BFO:0000050,UBERON:0000995
-ccf:VHMUrinaryBladder,ccf:VHMUrinaryBladder,trigone of urinary bladder,part of,urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0001255
-ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,part of,urinary bladder,UBERON:0006082,BFO:0000050,UBERON:0001255
-ccf:VHMUrinaryBladder,ccf:VHMUrinaryBladder,trigone of urinary bladder,part of,urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0001255
-ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,part of,urinary bladder,UBERON:0006082,BFO:0000050,UBERON:0001255
-ccf:VHMUrinaryBladder,ccf:VHMUrinaryBladder,trigone of urinary bladder,part_of,urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0001255
-ccf:VHMSmallIntestine,ccf:VHMSmallIntestine,ileum,part of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHFSmallIntestine,ccf:VHFSmallIntestine,ileum,part of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHMSmallIntestine,ccf:VHMSmallIntestine,ileum,part of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHFSmallIntestine,ccf:VHFSmallIntestine,ileum,part of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHMTrachea,ccf:VHMTrachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMTrachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMLarynx,ccf:VHMLarynx,cricoid cartilage,part of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,cricoid cartilage,part of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,thyroid cartilage,part of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,thyroid cartilage,part of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,cricoid cartilage,part of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,cricoid cartilage,part of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,thyroid cartilage,part of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,thyroid cartilage,part of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHMPelvis,ccf:VHMPelvis,fused sacrum,part of,bony pelvis,UBERON:0003690,BFO:0000050,UBERON:0001270
-ccf:VHMPelvis,ccf:VHMPelvis,fused sacrum,part of,bony pelvis,UBERON:0003690,BFO:0000050,UBERON:0001270
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,overlaps,brain,UBERON:0004720,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,overlaps,brain,UBERON:0004720,RO:0002131,UBERON:0000955
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_L,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_R,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHMHeart,ccf:VHMHeart,right cardiac atrium,overlaps,heart,UBERON:0002078,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,right cardiac atrium,overlaps,heart,UBERON:0002078,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,left cardiac atrium,overlaps,heart,UBERON:0002079,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,left cardiac atrium,overlaps,heart,UBERON:0002079,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,tricuspid valve,overlaps,heart,UBERON:0002134,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,mitral valve,overlaps,heart,UBERON:0002135,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,overlaps,heart,UBERON:0002135,RO:0002131,UBERON:0000948
-ccf:VHFUterus,ccf:VHFUterus,body of uterus,overlaps,uterus,UBERON:0009853,RO:0002131,UBERON:0000995
-ccf:VHFLargeIntestine,ccf:VHFemaleOrgans_VH_F_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
-ccf:VHMColon,ccf:VHMaleOrgans_VH_M_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
-ccf:VHFLargeIntestine,ccf:VHFemaleOrgans_VH_F_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
-ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,overlaps,urinary bladder,UBERON:0006082,RO:0002131,UBERON:0001255
-ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_substantia_nigra_L,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_substantia_nigra_R,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_substantia_nigra_L,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_substantia_nigra_R,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHMSmallIntestine,ccf:VHMSmallIntestine,ileum,overlaps,small intestine,UBERON:0002116,RO:0002131,UBERON:0002108
-ccf:VHFSmallIntestine,ccf:VHFSmallIntestine,ileum,overlaps,small intestine,UBERON:0002116,RO:0002131,UBERON:0002108
-ccf:VHMTrachea,ccf:VHMTrachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHMLarynx,ccf:VHMLarynx,cricoid cartilage,overlaps,larynx,UBERON:0002375,RO:0002131,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,cricoid cartilage,overlaps,larynx,UBERON:0002375,RO:0002131,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,thyroid cartilage,overlaps,larynx,UBERON:0001738,RO:0002131,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMaleOrgans_VH_M_laryngeal_cartilage,cricoid cartilage,is a,laryngeal cartilage,UBERON:0002375,rdfs:subClassOf,UBERON:0001739
-ccf:VHFLarynx,ccf:VHFemaleOrgans_VH_F_laryngeal_cartilage,cricoid cartilage,is a,laryngeal cartilage,UBERON:0002375,rdfs:subClassOf,UBERON:0001739
-ccf:VHMPelvis,ccf:VHMPelvis,fused sacrum,overlaps,bony pelvis,UBERON:0003690,RO:0002131,UBERON:0001270
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,tricuspid valve,overlaps,valve,UBERON:0002134,RO:0002131,UBERON:0003978
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,mitral valve,overlaps,valve,UBERON:0002135,RO:0002131,UBERON:0003978
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,tricuspid valve,is a,valve,UBERON:0002134,rdfs:subClassOf,UBERON:0003978
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,mitral valve,is a,valve,UBERON:0002135,rdfs:subClassOf,UBERON:0003978
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,overlaps,male reproductive system,UBERON:0000998,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,overlaps,male reproductive system,UBERON:0000998,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,overlaps,male reproductive system,UBERON:0000998,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,seminal vesicle,overlaps,male reproductive system,UBERON:0000998,RO:0002131,UBERON:0000079
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,part_of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,part_of,brain,UBERON:0004720,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cerebellar vermis,overlaps,brain,UBERON:0004720,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cerebellar vermis,overlaps,brain,UBERON:0004720,RO:0002131,UBERON:0000955
-ccf:VHMColon,ccf:VHMColon,rectum,overlaps,large intestine,UBERON:0001052,RO:0002131,UBERON:0000059
-ccf:VHFLargeIntestine,ccf:VHFLargeIntestine,rectum,overlaps,large intestine,UBERON:0001052,RO:0002131,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,sigmoid colon,overlaps,large intestine,UBERON:0001159,RO:0002131,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,rectum,overlaps,large intestine,UBERON:0001052,RO:0002131,UBERON:0000059
-ccf:VHFLargeIntestine,ccf:VHFLargeIntestine,rectum,overlaps,large intestine,UBERON:0001052,RO:0002131,UBERON:0000059
-ccf:VHMColon,ccf:VHMColon,sigmoid colon,overlaps,large intestine,UBERON:0001159,RO:0002131,UBERON:0000059
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_L,kidney pyramid,part_of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_R,kidney pyramid,part_of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,part_of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,part_of,renal medulla,UBERON:0004200,BFO:0000050,UBERON:0000362
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_L,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_renal_medulla_R,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_L,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_renal_medulla_R,kidney pyramid,overlaps,renal medulla,UBERON:0004200,RO:0002131,UBERON:0000362
-ccf:VHMHeart,ccf:VHMHeart,heart left ventricle,part_of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart left ventricle,part_of,heart,UBERON:0002084,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,interventricular septum,part_of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,interventricular septum,part_of,heart,UBERON:0002094,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,right cardiac atrium,part_of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,right cardiac atrium,part_of,heart,UBERON:0002078,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,left cardiac atrium,part_of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,left cardiac atrium,part_of,heart,UBERON:0002079,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,tricuspid valve,part_of,heart,UBERON:0002134,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,mitral valve,part_of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,part_of,heart,UBERON:0002135,BFO:0000050,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart right ventricle,overlaps,heart,UBERON:0002080,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart right ventricle,overlaps,heart,UBERON:0002080,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart left ventricle,overlaps,heart,UBERON:0002084,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart left ventricle,overlaps,heart,UBERON:0002084,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,interventricular septum,overlaps,heart,UBERON:0002094,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,interventricular septum,overlaps,heart,UBERON:0002094,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,right cardiac atrium,overlaps,heart,UBERON:0002078,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,right cardiac atrium,overlaps,heart,UBERON:0002078,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,left cardiac atrium,overlaps,heart,UBERON:0002079,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,left cardiac atrium,overlaps,heart,UBERON:0002079,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,tricuspid valve,overlaps,heart,UBERON:0002134,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,mitral valve,overlaps,heart,UBERON:0002135,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,mitral valve,overlaps,heart,UBERON:0002135,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart right ventricle,overlaps,heart,UBERON:0002080,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart right ventricle,overlaps,heart,UBERON:0002080,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,heart left ventricle,overlaps,heart,UBERON:0002084,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,heart left ventricle,overlaps,heart,UBERON:0002084,RO:0002131,UBERON:0000948
-ccf:VHMHeart,ccf:VHMHeart,interventricular septum,overlaps,heart,UBERON:0002094,RO:0002131,UBERON:0000948
-ccf:VHFHeartV1.1,ccf:VHFHeartV1.1,interventricular septum,overlaps,heart,UBERON:0002094,RO:0002131,UBERON:0000948
-ccf:VHFUterus,ccf:VHFUterus,body of uterus,part_of,uterus,UBERON:0009853,BFO:0000050,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,uterine cervix,overlaps,uterus,UBERON:0000002,RO:0002131,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,body of uterus,overlaps,uterus,UBERON:0009853,RO:0002131,UBERON:0000995
-ccf:VHFUterus,ccf:VHFUterus,uterine cervix,overlaps,uterus,UBERON:0000002,RO:0002131,UBERON:0000995
-ccf:VHFLargeIntestine,ccf:VHFemaleOrgans_VH_F_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
-ccf:VHMColon,ccf:VHMaleOrgans_VH_M_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
-ccf:VHFLargeIntestine,ccf:VHFemaleOrgans_VH_F_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
-ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,part_of,urinary bladder,UBERON:0006082,BFO:0000050,UBERON:0001255
-ccf:VHMUrinaryBladder,ccf:VHMUrinaryBladder,trigone of urinary bladder,overlaps,urinary bladder,UBERON:0001257,RO:0002131,UBERON:0001255
-ccf:VHFUrinaryBladder,ccf:VHFUrinaryBladder,fundus of urinary bladder,overlaps,urinary bladder,UBERON:0006082,RO:0002131,UBERON:0001255
-ccf:VHMUrinaryBladder,ccf:VHMUrinaryBladder,trigone of urinary bladder,overlaps,urinary bladder,UBERON:0001257,RO:0002131,UBERON:0001255
-ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_substantia_nigra_L,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_substantia_nigra_R,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_substantia_nigra_L,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_substantia_nigra_R,cerebral peduncle,overlaps,substantia nigra,UBERON:0002623,RO:0002131,UBERON:0002038
-ccf:VHMSmallIntestine,ccf:VHMSmallIntestine,ileum,part_of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHFSmallIntestine,ccf:VHFSmallIntestine,ileum,part_of,small intestine,UBERON:0002116,BFO:0000050,UBERON:0002108
-ccf:VHMSmallIntestine,ccf:VHMSmallIntestine,ileum,overlaps,small intestine,UBERON:0002116,RO:0002131,UBERON:0002108
-ccf:VHFSmallIntestine,ccf:VHFSmallIntestine,ileum,overlaps,small intestine,UBERON:0002116,RO:0002131,UBERON:0002108
-ccf:VHMTrachea,ccf:VHMTrachea,trachea cartilage,part_of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_trachea,trachea cartilage,part_of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_trachea,trachea cartilage,part_of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMTrachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
-ccf:VHMLarynx,ccf:VHMLarynx,cricoid cartilage,part_of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,cricoid cartilage,part_of,larynx,UBERON:0002375,BFO:0000050,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,thyroid cartilage,part_of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,thyroid cartilage,part_of,larynx,UBERON:0001738,BFO:0000050,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,cricoid cartilage,overlaps,larynx,UBERON:0002375,RO:0002131,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,cricoid cartilage,overlaps,larynx,UBERON:0002375,RO:0002131,UBERON:0001737
-ccf:VHMLarynx,ccf:VHMLarynx,thyroid cartilage,overlaps,larynx,UBERON:0001738,RO:0002131,UBERON:0001737
-ccf:VHMPelvis,ccf:VHMPelvis,fused sacrum,part_of,bony pelvis,UBERON:0003690,BFO:0000050,UBERON:0001270
-ccf:VHMPelvis,ccf:VHMPelvis,fused sacrum,overlaps,bony pelvis,UBERON:0003690,RO:0002131,UBERON:0001270
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,tricuspid valve,overlaps,valve,UBERON:0002134,RO:0002131,UBERON:0003978
-ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_valve,mitral valve,overlaps,valve,UBERON:0002135,RO:0002131,UBERON:0003978
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,posterior parahippocampal gyrus,overlaps,brain,UBERON:0002657,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,posterior parahippocampal gyrus,overlaps,brain,UBERON:0002657,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,pontine tegmentum,overlaps,brain,UBERON:0003023,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,pontine tegmentum,overlaps,brain,UBERON:0003023,RO:0002131,UBERON:0000955
-ccf:VHMLungV1.1,ccf:VHMLungV1.1,right lung hilus,overlaps,respiratory system,UBERON:0004888,RO:0002131,UBERON:0001004
-ccf:VHFLungV1.2,ccf:VHFLungV1.2,right lung hilus,overlaps,respiratory system,UBERON:0004888,RO:0002131,UBERON:0001004
-ccf:VHMLeftKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_L,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHMRightKidney,ccf:VHMaleOrgans_VH_M_cortex_of_kidney_R,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHFLeftKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_L,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHFRightKidneyV1.1,ccf:VHFemaleOrgans_VH_F_cortex_of_kidney_R,outer cortex of kidney,is a,cortex of kidney,UBERON:0002189,rdfs:subClassOf,UBERON:0001225
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs,right lung hilus,overlaps,lung,UBERON:0004888,RO:0002131,UBERON:0002048
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lungs,right lung hilus,overlaps,lung,UBERON:0004888,RO:0002131,UBERON:0002048
-ccf:VHMLiver,ccf:VHMLiver,bare area of liver,overlaps,liver,UBERON:0001149,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,bare area of liver,overlaps,liver,UBERON:0001149,RO:0002131,UBERON:0002107
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,L1 segment of lumbar spinal cord,overlaps,spinal cord,UBERON:0006448,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T7 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006455,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T7 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006455,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T9 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006465,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T9 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006465,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T10 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006466,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T10 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006466,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T11 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006467,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T12 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006468,RO:0002131,UBERON:0002240
-ccf:VHMThymus,ccf:VHMThymus,left thymus lobe,overlaps,thymus,UBERON:0005457,RO:0002131,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,left thymus lobe,overlaps,thymus,UBERON:0005457,RO:0002131,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,right thymus lobe,overlaps,thymus,UBERON:0005469,RO:0002131,UBERON:0002370
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,left lung hilus,overlaps,left lung,UBERON:0004887,RO:0002131,UBERON:0002168
-ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_tracheal_cartilage,carina of trachea,is a,trachea cartilage,UBERON:0006679,rdfs:subClassOf,UBERON:0003604
-ccf:VHMLarynx,ccf:VHMaleOrgans_VH_M_laryngeal_cartilage,thyroid cartilage,is a,laryngeal cartilage,UBERON:0001738,rdfs:subClassOf,UBERON:0001739
-ccf:VHFLarynx,ccf:VHFemaleOrgans_VH_F_laryngeal_cartilage,thyroid cartilage,is a,laryngeal cartilage,UBERON:0001738,rdfs:subClassOf,UBERON:0001739
-ccf:VHFMainBronchus,ccf:VHFMainBronchus,right main bronchus,is a,main bronchus,UBERON:0002177,rdfs:subClassOf,UBERON:0002182
-ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,overlaps,right lobe of liver,UBERON:0001149,RO:0002131,UBERON:0001114
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,part of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior temporal gyrus,part of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,middle temporal gyrus,part of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,middle temporal gyrus,part of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,lingual gyrus,part of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,lingual gyrus,part of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cuneus cortex,part of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cuneus cortex,part of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,precuneus cortex,part of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,precuneus cortex,part of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,posterior parahippocampal gyrus,part of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,posterior parahippocampal gyrus,part of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,pontine tegmentum,part of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,pontine tegmentum,part of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,part of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior temporal gyrus,part of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,middle temporal gyrus,part of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,middle temporal gyrus,part of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,lingual gyrus,part of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,lingual gyrus,part of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cuneus cortex,part of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cuneus cortex,part of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,precuneus cortex,part of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,precuneus cortex,part of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,posterior parahippocampal gyrus,part of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,posterior parahippocampal gyrus,part of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,pontine tegmentum,part of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,pontine tegmentum,part of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,part_of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior temporal gyrus,part_of,brain,UBERON:0002751,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,middle temporal gyrus,part_of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,middle temporal gyrus,part_of,brain,UBERON:0002771,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,lingual gyrus,part_of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,lingual gyrus,part_of,brain,UBERON:0002943,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cuneus cortex,part_of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHMLungV1.1,ccf:VHMLungV1.1,right lung hilus,part of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHFLungV1.2,ccf:VHFLungV1.2,right lung hilus,part of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHMLungV1.1,ccf:VHMLungV1.1,right lung hilus,part of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHFLungV1.2,ccf:VHFLungV1.2,right lung hilus,part of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,part of,pancreas,UBERON:0001069,BFO:0000050,UBERON:0001264
-ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,part of,pancreas,UBERON:0001069,BFO:0000050,UBERON:0001264
-ccf:VHFPlacenta,ccf:VHFPlacenta,chorionic plate,part of,placenta,UBERON:0004027,BFO:0000050,UBERON:0001987
-ccf:VHFPlacenta,ccf:VHFPlacenta,chorionic plate,part of,placenta,UBERON:0004027,BFO:0000050,UBERON:0001987
-ccf:VHFPlacenta,ccf:VHFPlacenta,chorionic plate,part_of,placenta,UBERON:0004027,BFO:0000050,UBERON:0001987
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs,right lung hilus,part of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lungs,right lung hilus,part of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs,right lung hilus,part of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lungs,right lung hilus,part of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,part of,liver,UBERON:0001117,BFO:0000050,UBERON:0002107
-ccf:VHMLiver,ccf:VHMLiver,bare area of liver,part of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,bare area of liver,part of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,part of,liver,UBERON:0001117,BFO:0000050,UBERON:0002107
-ccf:VHMLiver,ccf:VHMLiver,bare area of liver,part of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,bare area of liver,part of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,L1 segment of lumbar spinal cord,part of,spinal cord,UBERON:0006448,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T7 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T7 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T9 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T9 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T10 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T10 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T11 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006467,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T12 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006468,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,L1 segment of lumbar spinal cord,part of,spinal cord,UBERON:0006448,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T7 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T7 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T9 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T9 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T10 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T10 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T11 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006467,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T12 segment of thoracic spinal cord,part of,spinal cord,UBERON:0006468,BFO:0000050,UBERON:0002240
-ccf:VHMThymus,ccf:VHMThymus,left thymus lobe,part of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,left thymus lobe,part of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,right thymus lobe,part of,thymus,UBERON:0005469,BFO:0000050,UBERON:0002370
-ccf:VHMThymus,ccf:VHMThymus,left thymus lobe,part of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,left thymus lobe,part of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,right thymus lobe,part of,thymus,UBERON:0005469,BFO:0000050,UBERON:0002370
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,left lung hilus,part of,left lung,UBERON:0004887,BFO:0000050,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,left lung hilus,part of,left lung,UBERON:0004887,BFO:0000050,UBERON:0002168
-ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,part of,right lobe of liver,UBERON:0001149,BFO:0000050,UBERON:0001114
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,part of,right lobe of liver,UBERON:0001149,BFO:0000050,UBERON:0001114
-ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,part of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,part of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,part of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,part of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cuneus cortex,part_of,brain,UBERON:0006092,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,precuneus cortex,part_of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,precuneus cortex,part_of,brain,UBERON:0006093,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,posterior parahippocampal gyrus,part_of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,posterior parahippocampal gyrus,part_of,brain,UBERON:0002657,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,pontine tegmentum,part_of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,pontine tegmentum,part_of,brain,UBERON:0003023,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,overlaps,brain,UBERON:0002751,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior temporal gyrus,overlaps,brain,UBERON:0002751,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,middle temporal gyrus,overlaps,brain,UBERON:0002771,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,middle temporal gyrus,overlaps,brain,UBERON:0002771,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,lingual gyrus,overlaps,brain,UBERON:0002943,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,lingual gyrus,overlaps,brain,UBERON:0002943,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cuneus cortex,overlaps,brain,UBERON:0006092,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cuneus cortex,overlaps,brain,UBERON:0006092,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,precuneus cortex,overlaps,brain,UBERON:0006093,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,precuneus cortex,overlaps,brain,UBERON:0006093,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,posterior parahippocampal gyrus,overlaps,brain,UBERON:0002657,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,posterior parahippocampal gyrus,overlaps,brain,UBERON:0002657,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,pontine tegmentum,overlaps,brain,UBERON:0003023,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,pontine tegmentum,overlaps,brain,UBERON:0003023,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior temporal gyrus,overlaps,brain,UBERON:0002751,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior temporal gyrus,overlaps,brain,UBERON:0002751,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,middle temporal gyrus,overlaps,brain,UBERON:0002771,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,middle temporal gyrus,overlaps,brain,UBERON:0002771,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,lingual gyrus,overlaps,brain,UBERON:0002943,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,lingual gyrus,overlaps,brain,UBERON:0002943,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,cuneus cortex,overlaps,brain,UBERON:0006092,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,cuneus cortex,overlaps,brain,UBERON:0006092,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,precuneus cortex,overlaps,brain,UBERON:0006093,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,precuneus cortex,overlaps,brain,UBERON:0006093,RO:0002131,UBERON:0000955
-ccf:VHMLungV1.1,ccf:VHMLungV1.1,right lung hilus,part_of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHFLungV1.2,ccf:VHFLungV1.2,right lung hilus,part_of,respiratory system,UBERON:0004888,BFO:0000050,UBERON:0001004
-ccf:VHMLungV1.1,ccf:VHMLungV1.1,right lung hilus,overlaps,respiratory system,UBERON:0004888,RO:0002131,UBERON:0001004
-ccf:VHFLungV1.2,ccf:VHFLungV1.2,right lung hilus,overlaps,respiratory system,UBERON:0004888,RO:0002131,UBERON:0001004
-ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,part_of,pancreas,UBERON:0001069,BFO:0000050,UBERON:0001264
-ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,overlaps,pancreas,UBERON:0001069,RO:0002131,UBERON:0001264
-ccf:VHFPancreas,ccf:VHFPancreas,head of pancreas,overlaps,pancreas,UBERON:0001069,RO:0002131,UBERON:0001264
-ccf:VHFPlacenta,ccf:VHFPlacenta,chorionic plate,overlaps,placenta,UBERON:0004027,RO:0002131,UBERON:0001987
-ccf:VHFPlacenta,ccf:VHFPlacenta,chorionic plate,overlaps,placenta,UBERON:0004027,RO:0002131,UBERON:0001987
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs,right lung hilus,part_of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lungs,right lung hilus,part_of,lung,UBERON:0004888,BFO:0000050,UBERON:0002048
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs,right lung hilus,overlaps,lung,UBERON:0004888,RO:0002131,UBERON:0002048
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lungs,right lung hilus,overlaps,lung,UBERON:0004888,RO:0002131,UBERON:0002048
-ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,part_of,liver,UBERON:0001117,BFO:0000050,UBERON:0002107
-ccf:VHMLiver,ccf:VHMLiver,bare area of liver,part_of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,bare area of liver,part_of,liver,UBERON:0001149,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,overlaps,liver,UBERON:0001117,RO:0002131,UBERON:0002107
-ccf:VHMLiver,ccf:VHMLiver,bare area of liver,overlaps,liver,UBERON:0001149,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,bare area of liver,overlaps,liver,UBERON:0001149,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,caudate lobe of liver,overlaps,liver,UBERON:0001117,RO:0002131,UBERON:0002107
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,L1 segment of lumbar spinal cord,part_of,spinal cord,UBERON:0006448,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T7 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T7 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006455,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T9 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T9 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006465,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T10 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T10 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006466,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T11 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006467,BFO:0000050,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T12 segment of thoracic spinal cord,part_of,spinal cord,UBERON:0006468,BFO:0000050,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,L1 segment of lumbar spinal cord,overlaps,spinal cord,UBERON:0006448,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T7 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006455,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T7 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006455,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T9 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006465,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T9 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006465,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T10 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006466,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T10 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006466,RO:0002131,UBERON:0002240
-ccf:VHFSpinalCord,ccf:VHFSpinalCord,T11 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006467,RO:0002131,UBERON:0002240
-ccf:VHMSpinalCord,ccf:VHMSpinalCord,T12 segment of thoracic spinal cord,overlaps,spinal cord,UBERON:0006468,RO:0002131,UBERON:0002240
-ccf:VHMThymus,ccf:VHMThymus,left thymus lobe,part_of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,left thymus lobe,part_of,thymus,UBERON:0005457,BFO:0000050,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,right thymus lobe,part_of,thymus,UBERON:0005469,BFO:0000050,UBERON:0002370
-ccf:VHMThymus,ccf:VHMThymus,left thymus lobe,overlaps,thymus,UBERON:0005457,RO:0002131,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,left thymus lobe,overlaps,thymus,UBERON:0005457,RO:0002131,UBERON:0002370
-ccf:VHFThymusV1.1,ccf:VHFThymusV1.1,right thymus lobe,overlaps,thymus,UBERON:0005469,RO:0002131,UBERON:0002370
-ccf:VHFLarynx,ccf:VHFLarynx,thyroid cartilage,overlaps,larynx,UBERON:0001738,RO:0002131,UBERON:0001737
-ccf:VHFLarynx,ccf:VHFLarynx,thyroid cartilage,overlaps,larynx,UBERON:0001738,RO:0002131,UBERON:0001737
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,left lung hilus,part_of,left lung,UBERON:0004887,BFO:0000050,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,left lung hilus,overlaps,left lung,UBERON:0004887,RO:0002131,UBERON:0002168
-ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_head_of_pancreas,uncinate process of pancreas,part_of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pancreas,part_of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
-ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,part_of,right lobe of liver,UBERON:0001149,BFO:0000050,UBERON:0001114
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_right_lobe_of_liver,bare area of liver,overlaps,right lobe of liver,UBERON:0001149,RO:0002131,UBERON:0001114
-ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,part_of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,part_of,left lobe of liver,UBERON:0001117,BFO:0000050,UBERON:0001115
-ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,overlaps,left lobe of liver,UBERON:0001117,RO:0002131,UBERON:0001115
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,overlaps,left lobe of liver,UBERON:0001117,RO:0002131,UBERON:0001115
-ccf:VHMLiver,ccf:VHMaleOrgans_VH_M_left_lobe_of_liver,caudate lobe of liver,overlaps,left lobe of liver,UBERON:0001117,RO:0002131,UBERON:0001115
-ccf:VHFLiver,ccf:VHFemaleOrgans_VH_F_left_lobe_of_liver,caudate lobe of liver,overlaps,left lobe of liver,UBERON:0001117,RO:0002131,UBERON:0001115
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part_of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part_of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,overlaps,male reproductive system,UBERON:8410026,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,overlaps,male reproductive system,UBERON:8410027,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,overlaps,male reproductive system,UBERON:8410026,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,overlaps,male reproductive system,UBERON:8410027,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,part_of,male reproductive system,UBERON:8410026,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,part_of,male reproductive system,UBERON:8410027,BFO:0000050,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,overlaps,male reproductive system,UBERON:8410026,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,overlaps,male reproductive system,UBERON:8410027,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,peripheral zone of prostate,overlaps,male reproductive system,UBERON:8410026,RO:0002131,UBERON:0000079
-ccf:VHMProstate,ccf:VHMProstate,central zone of prostate,overlaps,male reproductive system,UBERON:8410027,RO:0002131,UBERON:0000079
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior occipital gyrus,part of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior occipital gyrus,part of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior occipital gyrus,part of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior occipital gyrus,part of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior occipital gyrus,part_of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior occipital gyrus,part_of,brain,UBERON:0014608,BFO:0000050,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior occipital gyrus,overlaps,brain,UBERON:0014608,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior occipital gyrus,overlaps,brain,UBERON:0014608,RO:0002131,UBERON:0000955
-ccf:VHMAllenBrain,ccf:VHMAllenBrain,inferior occipital gyrus,overlaps,brain,UBERON:0014608,RO:0002131,UBERON:0000955
-ccf:VHFAllenBrain,ccf:VHFAllenBrain,inferior occipital gyrus,overlaps,brain,UBERON:0014608,RO:0002131,UBERON:0000955
-ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_cervix,external cervical os,part of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
-ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_cervix,external cervical os,part of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
-ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_cervix,external cervical os,part_of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
-ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_cervix,external cervical os,overlaps,uterine cervix,UBERON:0013760,RO:0002131,UBERON:0000002
-ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_cervix,external cervical os,overlaps,uterine cervix,UBERON:0013760,RO:0002131,UBERON:0000002
-ccf:VHFLiver,ccf:VHFLiver,coronary ligament of liver,part of,liver,UBERON:0013138,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,capsule of liver,part of,liver,UBERON:0016479,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,coronary ligament of liver,part of,liver,UBERON:0013138,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,capsule of liver,part of,liver,UBERON:0016479,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,coronary ligament of liver,part_of,liver,UBERON:0013138,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,capsule of liver,part_of,liver,UBERON:0016479,BFO:0000050,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,coronary ligament of liver,overlaps,liver,UBERON:0013138,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,capsule of liver,overlaps,liver,UBERON:0016479,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,coronary ligament of liver,overlaps,liver,UBERON:0013138,RO:0002131,UBERON:0002107
-ccf:VHFLiver,ccf:VHFLiver,capsule of liver,overlaps,liver,UBERON:0016479,RO:0002131,UBERON:0002107
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,apex of prostate,part of,prostate gland,UBERON:0035441,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,peripheral zone of prostate,part of,prostate gland,UBERON:8410026,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,apex of prostate,part of,prostate gland,UBERON:0035441,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,peripheral zone of prostate,part of,prostate gland,UBERON:8410026,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,apex of prostate,part_of,prostate gland,UBERON:0035441,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,peripheral zone of prostate,part_of,prostate gland,UBERON:8410026,BFO:0000050,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,apex of prostate,overlaps,prostate gland,UBERON:0035441,RO:0002131,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,peripheral zone of prostate,overlaps,prostate gland,UBERON:8410026,RO:0002131,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,apex of prostate,overlaps,prostate gland,UBERON:0035441,RO:0002131,UBERON:0002367
-ccf:VHMProstate,ccf:VHMaleOrgans_VH_M_prostate_gland,peripheral zone of prostate,overlaps,prostate gland,UBERON:8410026,RO:0002131,UBERON:0002367
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,lobar bronchus of left lung lower lobe,part of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_left_lungs_L,lobar bronchus of left lung lower lobe,part of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,lobar bronchus of left lung lower lobe,part of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_left_lungs_L,lobar bronchus of left lung lower lobe,part of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,lobar bronchus of left lung lower lobe,part_of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_left_lungs_L,lobar bronchus of left lung lower lobe,part_of,left lung,UBERON:0012066,BFO:0000050,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,lobar bronchus of left lung lower lobe,overlaps,left lung,UBERON:0012066,RO:0002131,UBERON:0002168
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_left_lungs_L,lobar bronchus of left lung lower lobe,overlaps,left lung,UBERON:0012066,RO:0002131,UBERON:0002168
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lungs_L,lobar bronchus of left lung lower lobe,overlaps,left lung,UBERON:0012066,RO:0002131,UBERON:0002168
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_left_lungs_L,lobar bronchus of left lung lower lobe,overlaps,left lung,UBERON:0012066,RO:0002131,UBERON:0002168
-ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
-ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_tertiary_bronchi_L,lobar bronchus of left lung lower lobe,connected to,segmental bronchus,UBERON:0012066,RO:0002170,UBERON:0002184
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_tertiary_bronchi_L,lobar bronchus of left lung lower lobe,connected to,segmental bronchus,UBERON:0012066,RO:0002170,UBERON:0002184
-ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lobar_bronchus_L,lobar bronchus of left lung lower lobe,is a,lobar bronchus of left lung,UBERON:0012066,rdfs:subClassOf,UBERON:0003405
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_lobar_bronchi_L,lobar bronchus of left lung lower lobe,is a,lobar bronchus of left lung,UBERON:0012066,rdfs:subClassOf,UBERON:0003405
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_L_lung_upper_lobe,lobar bronchus of left lung upper lobe,part of,upper lobe of left lung,UBERON:0012065,BFO:0000050,UBERON:0008952
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_L_lung_upper_lobe,lobar bronchus of left lung upper lobe,part of,upper lobe of left lung,UBERON:0012065,BFO:0000050,UBERON:0008952
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_L_lung_upper_lobe,lobar bronchus of left lung upper lobe,part_of,upper lobe of left lung,UBERON:0012065,BFO:0000050,UBERON:0008952
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_L_lung_upper_lobe,lobar bronchus of left lung upper lobe,overlaps,upper lobe of left lung,UBERON:0012065,RO:0002131,UBERON:0008952
-ccf:VHFLungV1.2,ccf:VHFemaleOrgans_VH_F_L_lung_upper_lobe,lobar bronchus of left lung upper lobe,overlaps,upper lobe of left lung,UBERON:0012065,RO:0002131,UBERON:0008952
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_transverse_colon,splenic flexure of colon,overlaps,transverse colon,UBERON:0022276,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_transverse_colon,splenic flexure of colon,overlaps,transverse colon,UBERON:0022276,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_descending_colon,splenic flexure of colon,overlaps,descending colon,UBERON:0022276,RO:0002131,UBERON:0001158
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_descending_colon,splenic flexure of colon,overlaps,descending colon,UBERON:0022276,RO:0002131,UBERON:0001158
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_ventricle,aortic valve,part of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_heart_left_ventricle,aortic valve,part of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_ventricle,aortic valve,part of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_heart_left_ventricle,aortic valve,part of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_ventricle,aortic valve,part_of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_heart_left_ventricle,aortic valve,part_of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_ventricle,aortic valve,overlaps,heart left ventricle,UBERON:0002137,RO:0002131,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_heart_left_ventricle,aortic valve,overlaps,heart left ventricle,UBERON:0002137,RO:0002131,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_cord,umbilical artery,overlaps,umbilical cord,UBERON:0001310,RO:0002131,UBERON:0002331
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_cord,umbilical vein,overlaps,umbilical cord,UBERON:0002066,RO:0002131,UBERON:0002331
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_cord,umbilical artery,overlaps,umbilical cord,UBERON:0001310,RO:0002131,UBERON:0002331
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,trachea cartilage,part_of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,trachea cartilage,part_of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part_of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,part_of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,overlaps,lymph vasculature,UBERON:0010397,RO:0002131,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,overlaps,lymph vasculature,UBERON:0010397,RO:0002131,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_right_cardiac_atrium,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_right_cardiac_atrium,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_right_cardiac_atrium,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_right_cardiac_atrium,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_right_cardiac_atrium,tricuspid valve,part_of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_right_cardiac_atrium,tricuspid valve,part_of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_right_cardiac_atrium,tricuspid valve,overlaps,right cardiac atrium,UBERON:0002134,RO:0002131,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_right_cardiac_atrium,tricuspid valve,overlaps,right cardiac atrium,UBERON:0002134,RO:0002131,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_cardiac_atrium,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_left_cardiac_atrium,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_cardiac_atrium,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_left_cardiac_atrium,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_cardiac_atrium,mitral valve,part_of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_left_cardiac_atrium,mitral valve,part_of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_cardiac_atrium,mitral valve,overlaps,left cardiac atrium,UBERON:0002135,RO:0002131,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_left_cardiac_atrium,mitral valve,overlaps,left cardiac atrium,UBERON:0002135,RO:0002131,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,superior mesenteric artery,part of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,superior mesenteric artery,part of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,inferior mesenteric artery,part of,descending aorta,UBERON:0001183,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,right renal artery,part of,descending aorta,UBERON:0001185,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,left renal artery,part of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,left renal artery,part of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,superior mesenteric artery,part of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,superior mesenteric artery,part of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,inferior mesenteric artery,part of,descending aorta,UBERON:0001183,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,right renal artery,part of,descending aorta,UBERON:0001185,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,left renal artery,part of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,left renal artery,part of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,superior mesenteric artery,part_of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,superior mesenteric artery,part_of,descending aorta,UBERON:0001182,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,inferior mesenteric artery,part_of,descending aorta,UBERON:0001183,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,right renal artery,part_of,descending aorta,UBERON:0001185,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,left renal artery,part_of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,left renal artery,part_of,descending aorta,UBERON:0001186,BFO:0000050,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,superior mesenteric artery,overlaps,descending aorta,UBERON:0001182,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,superior mesenteric artery,overlaps,descending aorta,UBERON:0001182,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,inferior mesenteric artery,overlaps,descending aorta,UBERON:0001183,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,right renal artery,overlaps,descending aorta,UBERON:0001185,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,left renal artery,overlaps,descending aorta,UBERON:0001186,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,left renal artery,overlaps,descending aorta,UBERON:0001186,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_ischium_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_pubis_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,part_of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,trigone of urinary bladder,overlaps,fundus of urinary bladder,UBERON:0001257,RO:0002131,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,part of,superior mesenteric vein,UBERON:0001219,BFO:0000050,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,part of,superior mesenteric vein,UBERON:0001219,BFO:0000050,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,part_of,superior mesenteric vein,UBERON:0001219,BFO:0000050,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,overlaps,superior mesenteric vein,UBERON:0001219,RO:0002131,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_ascending_colon,hepatic flexure of colon,overlaps,ascending colon,UBERON:0022277,RO:0002131,UBERON:0001156
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_transverse_colon,splenic flexure of colon,overlaps,transverse colon,UBERON:0022276,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_transverse_colon,splenic flexure of colon,overlaps,transverse colon,UBERON:0022276,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_transverse_colon,hepatic flexure of colon,overlaps,transverse colon,UBERON:0022277,RO:0002131,UBERON:0001157
+https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-female/v1.3#VH_F_descending_colon,splenic flexure of colon,overlaps,descending colon,UBERON:0022276,RO:0002131,UBERON:0001158
+https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/large-intestine-male/v1.3#VH_M_descending_colon,splenic flexure of colon,overlaps,descending colon,UBERON:0022276,RO:0002131,UBERON:0001158
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_artery_1,umbilical artery,is a,umbilical artery,UBERON:0001310,rdfs:subClassOf,UBERON:0001310
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_artery_2,umbilical artery,is a,umbilical artery,UBERON:0001310,rdfs:subClassOf,UBERON:0001310
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_brachiocephalic_artery_a,brachiocephalic artery,is a,brachiocephalic artery,UBERON:0001529,rdfs:subClassOf,UBERON:0001529
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_brachiocephalic_artery_b,brachiocephalic artery,is a,brachiocephalic artery,UBERON:0001529,rdfs:subClassOf,UBERON:0001529
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_brachiocephalic_artery_a,brachiocephalic artery,is a,brachiocephalic artery,UBERON:0001529,rdfs:subClassOf,UBERON:0001529
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_brachiocephalic_artery_b,brachiocephalic artery,is a,brachiocephalic artery,UBERON:0001529,rdfs:subClassOf,UBERON:0001529
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_hepatic_portal_vein,superior mesenteric vein,connected to,hepatic portal vein,UBERON:0001138,RO:0002170,UBERON:0001639
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_ventricle,aortic valve,overlaps,heart left ventricle,UBERON:0002137,RO:0002131,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_heart_left_ventricle,aortic valve,overlaps,heart left ventricle,UBERON:0002137,RO:0002131,UBERON:0002084
+https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/placenta-full-term-female/v1.1#VH_F_umbilical_cord,umbilical vein,overlaps,umbilical cord,UBERON:0002066,RO:0002131,UBERON:0002331
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,trachea cartilage,overlaps,trachea,UBERON:0003604,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-female/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,overlaps,lymph vasculature,UBERON:0010397,RO:0002131,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/lymph-node-male/v1.3#Yao_blood_vasculature,efferent lymphatic vessel,overlaps,lymph vasculature,UBERON:0010397,RO:0002131,UBERON:0004536
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_right_cardiac_atrium,tricuspid valve,overlaps,right cardiac atrium,UBERON:0002134,RO:0002131,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_right_cardiac_atrium,tricuspid valve,overlaps,right cardiac atrium,UBERON:0002134,RO:0002131,UBERON:0002078
+https://purl.humanatlas.io/ref-organ/heart-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-female/v1.3#VH_F_left_cardiac_atrium,mitral valve,overlaps,left cardiac atrium,UBERON:0002135,RO:0002131,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/heart-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/heart-male/v1.3#VH_M_left_cardiac_atrium,mitral valve,overlaps,left cardiac atrium,UBERON:0002135,RO:0002131,UBERON:0002079
+https://purl.humanatlas.io/ref-organ/brain-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-female/v1.4#VH_F_optic_chiasm,optic tract,connected to,optic chiasma,UBERON:0001908,RO:0002170,UBERON:0000959
+https://purl.humanatlas.io/ref-organ/brain-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-male/v1.4#VH_M_optic_chiasm,optic tract,connected to,optic chiasma,UBERON:0001908,RO:0002170,UBERON:0000959
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_ascending_aorta,arch of aorta,connected to,ascending aorta,UBERON:0001508,RO:0002170,UBERON:0001496
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_ascending_aorta,arch of aorta,connected to,ascending aorta,UBERON:0001508,RO:0002170,UBERON:0001496
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,superior mesenteric artery,overlaps,descending aorta,UBERON:0001182,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,superior mesenteric artery,overlaps,descending aorta,UBERON:0001182,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,inferior mesenteric artery,overlaps,descending aorta,UBERON:0001183,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,right renal artery,overlaps,descending aorta,UBERON:0001185,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,left renal artery,overlaps,descending aorta,UBERON:0001186,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,left renal artery,overlaps,descending aorta,UBERON:0001186,RO:0002131,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_a,descending aorta,is a,descending aorta,UBERON:0001514,rdfs:subClassOf,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_descending_aorta_b,descending aorta,is a,descending aorta,UBERON:0001514,rdfs:subClassOf,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_a,descending aorta,is a,descending aorta,UBERON:0001514,rdfs:subClassOf,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_descending_aorta_b,descending aorta,is a,descending aorta,UBERON:0001514,rdfs:subClassOf,UBERON:0001514
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_ischium_compact_bone_R,compact bone tissue,is a,compact bone tissue,UBERON:0001439,rdfs:subClassOf,UBERON:0001439
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_pubis_compact_bone_R,compact bone tissue,is a,compact bone tissue,UBERON:0001439,rdfs:subClassOf,UBERON:0001439
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_compact_bone_R,compact bone tissue,is a,compact bone tissue,UBERON:0001439,rdfs:subClassOf,UBERON:0001439
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_compact_bone_R,compact bone tissue,is a,compact bone tissue,UBERON:0001439,rdfs:subClassOf,UBERON:0001439
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_ischium_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_pubis_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_spongy_bone_R,trabecular bone tissue,overlaps,trabecular bone tissue,UBERON:0002483,RO:0002131,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_ischium_spongy_bone_R,trabecular bone tissue,is a,trabecular bone tissue,UBERON:0002483,rdfs:subClassOf,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-female/v1.3#VH_F_pubis_spongy_bone_R,trabecular bone tissue,is a,trabecular bone tissue,UBERON:0002483,rdfs:subClassOf,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_spongy_bone_R,trabecular bone tissue,is a,trabecular bone tissue,UBERON:0002483,rdfs:subClassOf,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_spongy_bone_R,trabecular bone tissue,is a,trabecular bone tissue,UBERON:0002483,rdfs:subClassOf,UBERON:0002483
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_artery,middle colic artery,connected to,superior mesenteric artery,UBERON:0001196,RO:0002170,UBERON:0001182
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_superior_mesenteric_artery,middle colic artery,connected to,superior mesenteric artery,UBERON:0001196,RO:0002170,UBERON:0001182
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_superior_mesenteric_artery,superior mesenteric artery,is a,superior mesenteric artery,UBERON:0001182,rdfs:subClassOf,UBERON:0001182
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_superior_mesenteric_vein,superior mesenteric artery,is a,superior mesenteric artery,UBERON:0001182,rdfs:subClassOf,UBERON:0001182
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_aortic_arch,brachiocephalic artery,connected to,arch of aorta,UBERON:0001529,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_aortic_arch,brachiocephalic artery,connected to,arch of aorta,UBERON:0001529,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_aortic_arch,descending aorta,connected to,arch of aorta,UBERON:0001514,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_aortic_arch,descending aorta,connected to,arch of aorta,UBERON:0001514,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_aortic_arch,left subclavian artery,connected to,arch of aorta,UBERON:0001584,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_aortic_arch,left subclavian artery,connected to,arch of aorta,UBERON:0001584,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/brain-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-female/v1.4#Allen_optic_tract_R,optic chiasma,connected to,optic tract,UBERON:0000959,RO:0002170,UBERON:0001908
+https://purl.humanatlas.io/ref-organ/brain-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-male/v1.4#Allen_optic_tract_R,optic chiasma,connected to,optic tract,UBERON:0000959,RO:0002170,UBERON:0001908
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_base,fundus of urinary bladder,is a,fundus of urinary bladder,UBERON:0006082,rdfs:subClassOf,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-female/v1.2#VH_F_fundus_of_urinary_bladder_dome,fundus of urinary bladder,is a,fundus of urinary bladder,UBERON:0006082,rdfs:subClassOf,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_base1,fundus of urinary bladder,is a,fundus of urinary bladder,UBERON:0006082,rdfs:subClassOf,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/urinary-bladder-male/v1.2#VH_M_fundus_of_urinary_bladder_dome,fundus of urinary bladder,is a,fundus of urinary bladder,UBERON:0006082,rdfs:subClassOf,UBERON:0006082
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,overlaps,superior mesenteric vein,UBERON:0001219,RO:0002131,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,middle colic vein,connected to,superior mesenteric vein,UBERON:0001218,RO:0002170,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_subclavian_artery_a,left subclavian artery,is a,left subclavian artery,UBERON:0001584,rdfs:subClassOf,UBERON:0001584
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_subclavian_artery_b,left subclavian artery,is a,left subclavian artery,UBERON:0001584,rdfs:subClassOf,UBERON:0001584
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_left_subclavian_artery_a,left subclavian artery,is a,left subclavian artery,UBERON:0001584,rdfs:subClassOf,UBERON:0001584
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_left_subclavian_artery_b,left subclavian artery,is a,left subclavian artery,UBERON:0001584,rdfs:subClassOf,UBERON:0001584
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_splenic_vein,inferior mesenteric vein,connected to,splenic vein,UBERON:0001215,RO:0002170,UBERON:0003713
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_upper_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_lower_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_middle_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_rectal_artery,superior rectal artery,is a,superior rectal artery,UBERON:0035040,rdfs:subClassOf,UBERON:0035040
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_rectal_vein,superior rectal artery,is a,superior rectal artery,UBERON:0035040,rdfs:subClassOf,UBERON:0035040
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_sigmoid_artery_b,sigmoid artery,is a,sigmoid artery,UBERON:0035180,rdfs:subClassOf,UBERON:0035180
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_sigmoid_artery_c,sigmoid artery,is a,sigmoid artery,UBERON:0035180,rdfs:subClassOf,UBERON:0035180
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_transition_zone__of_prostate_L,transition zone of prostate,is a,transition zone of prostate,UBERON:8410025,rdfs:subClassOf,UBERON:8410025
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_transition_zone_of_prostate_R,transition zone of prostate,is a,transition zone of prostate,UBERON:8410025,rdfs:subClassOf,UBERON:8410025
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_peripheral_zone_of_prostate_L,peripheral zone of prostate,is a,peripheral zone of prostate,UBERON:8410026,rdfs:subClassOf,UBERON:8410026
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_peripheral_zone_of_prostate_R,peripheral zone of prostate,is a,peripheral zone of prostate,UBERON:8410026,rdfs:subClassOf,UBERON:8410026
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_central_zone_of_prostate_L,central zone of prostate,is a,central zone of prostate,UBERON:8410027,rdfs:subClassOf,UBERON:8410027
+https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#primary,https://purl.humanatlas.io/ref-organ/prostate-male/v1.2#VH_M_central_zone_of_prostate_R,central zone of prostate,is a,central zone of prostate,UBERON:8410027,rdfs:subClassOf,UBERON:8410027
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,internal cervical os,part of,uterine cervix,UBERON:0013759,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,external cervical os,part of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,internal cervical os,part of,uterine cervix,UBERON:0013759,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,external cervical os,part of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,internal cervical os,part_of,uterine cervix,UBERON:0013759,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,external cervical os,part_of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,internal cervical os,overlaps,uterine cervix,UBERON:0013759,RO:0002131,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,external cervical os,overlaps,uterine cervix,UBERON:0013760,RO:0002131,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,internal cervical os,overlaps,uterine cervix,UBERON:0013759,RO:0002131,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,external cervical os,overlaps,uterine cervix,UBERON:0013760,RO:0002131,UBERON:0000002
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_hepatic_portal_vein,splenic vein,connected to,hepatic portal vein,UBERON:0003713,RO:0002170,UBERON:0001639
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_hepatic_portal_vein,splenic vein,connected to,hepatic portal vein,UBERON:0003713,RO:0002170,UBERON:0001639
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,carina of trachea,part_of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,carina of trachea,part_of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,carina of trachea,overlaps,trachea,UBERON:0006679,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,carina of trachea,overlaps,trachea,UBERON:0006679,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-female/v1.1#VH_F_trachea,carina of trachea,overlaps,trachea,UBERON:0006679,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/trachea-male/v1.1#VH_M_trachea,carina of trachea,overlaps,trachea,UBERON:0006679,RO:0002131,UBERON:0003126
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,part of,inferior mesenteric artery,UBERON:0035040,BFO:0000050,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,part of,inferior mesenteric artery,UBERON:0035040,BFO:0000050,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,part_of,inferior mesenteric artery,UBERON:0035040,BFO:0000050,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,overlaps,inferior mesenteric artery,UBERON:0035040,RO:0002131,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,overlaps,inferior mesenteric artery,UBERON:0035040,RO:0002131,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,superior rectal artery,connected to,inferior mesenteric artery,UBERON:0035040,RO:0002170,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_inferior_mesenteric_artery,sigmoid artery,connected to,inferior mesenteric artery,UBERON:0035180,RO:0002170,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_inferior_mesenteric_artery,sigmoid artery,connected to,inferior mesenteric artery,UBERON:0035180,RO:0002170,UBERON:0001183
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_aortic_arch,left common carotid artery plus branches,connected to,arch of aorta,UBERON:0001536,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_aortic_arch,left common carotid artery plus branches,connected to,arch of aorta,UBERON:0001536,RO:0002170,UBERON:0001508
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_coronary_sinus,great vein of heart,connected to,coronary sinus,UBERON:0006958,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_coronary_sinus,great vein of heart,connected to,coronary sinus,UBERON:0006958,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_coronary_sinus,middle cardiac vein,connected to,coronary sinus,UBERON:0009687,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_coronary_sinus,middle cardiac vein,connected to,coronary sinus,UBERON:0009687,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_coronary_sinus,small cardiac vein,connected to,coronary sinus,UBERON:0035374,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_coronary_sinus,small cardiac vein,connected to,coronary sinus,UBERON:0035374,RO:0002170,UBERON:0005438
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_pulmonary_trunk,right pulmonary artery,connected to,pulmonary trunk,UBERON:0001651,RO:0002170,UBERON:0002333
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_pulmonary_trunk,right pulmonary artery,connected to,pulmonary trunk,UBERON:0001651,RO:0002170,UBERON:0002333
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_pulmonary_trunk,left pulmonary artery,connected to,pulmonary trunk,UBERON:0001652,RO:0002170,UBERON:0002333
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_pulmonary_trunk,left pulmonary artery,connected to,pulmonary trunk,UBERON:0001652,RO:0002170,UBERON:0002333
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_superior_mesenteric_vein,ileocolic vein,connected to,superior mesenteric vein,UBERON:0001219,RO:0002170,UBERON:0001138
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#VH_M_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#VH_M_head_of_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,uncinate process of pancreas,part_of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#VH_M_head_of_pancreas,uncinate process of pancreas,part_of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#VH_M_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-male/v1.3#VH_M_head_of_pancreas,uncinate process of pancreas,overlaps,head of pancreas,UBERON:0010373,RO:0002131,UBERON:0001069
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_internal_iliac_vein_L,internal pudendal vein,connected to,internal iliac vein,UBERON:0018252,RO:0002170,UBERON:0001317
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_internal_iliac_vein_R,internal pudendal vein,connected to,internal iliac vein,UBERON:0018252,RO:0002170,UBERON:0001317
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_internal_iliac_vein_L,internal pudendal vein,connected to,internal iliac vein,UBERON:0018252,RO:0002170,UBERON:0001317
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_internal_iliac_vein_R,internal pudendal vein,connected to,internal iliac vein,UBERON:0018252,RO:0002170,UBERON:0001317
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_common_carotid_artery_a,left common carotid artery plus branches,is a,left common carotid artery plus branches,UBERON:0001536,rdfs:subClassOf,UBERON:0001536
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_common_carotid_artery_b,left common carotid artery plus branches,is a,left common carotid artery plus branches,UBERON:0001536,rdfs:subClassOf,UBERON:0001536
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_left_common_carotid_artery_a,left common carotid artery plus branches,is a,left common carotid artery plus branches,UBERON:0001536,rdfs:subClassOf,UBERON:0001536
+https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-male/v1.3#VH_M_left_common_carotid_artery_b,left common carotid artery plus branches,is a,left common carotid artery plus branches,UBERON:0001536,rdfs:subClassOf,UBERON:0001536
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,part of,left coronary artery,UBERON:0035422,BFO:0000050,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,part of,left coronary artery,UBERON:0035422,BFO:0000050,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,part_of,left coronary artery,UBERON:0035422,BFO:0000050,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,overlaps,left coronary artery,UBERON:0035422,RO:0002131,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,overlaps,left coronary artery,UBERON:0035422,RO:0002131,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/blood-vasculature-female/v1.3#VH_F_left_coronary_artery,circumflex branch of left coronary artery,connected to,left coronary artery,UBERON:0035422,RO:0002170,UBERON:0001626
+https://purl.humanatlas.io/ref-organ/brain-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-female/v1.4#Allen_anterior_intermediate_orbital_gyrus_R,intermediate orbital gyrus,is a,intermediate orbital gyrus,UBERON:0002644,rdfs:subClassOf,UBERON:0002644
+https://purl.humanatlas.io/ref-organ/brain-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-female/v1.4#Allen_posterior_intermediate_orbital_gyrus_R,intermediate orbital gyrus,is a,intermediate orbital gyrus,UBERON:0002644,rdfs:subClassOf,UBERON:0002644
+https://purl.humanatlas.io/ref-organ/brain-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-male/v1.4#Allen_anterior_intermediate_orbital_gyrus_R,intermediate orbital gyrus,is a,intermediate orbital gyrus,UBERON:0002644,rdfs:subClassOf,UBERON:0002644
+https://purl.humanatlas.io/ref-organ/brain-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/brain-male/v1.4#Allen_posterior_intermediate_orbital_gyrus_R,intermediate orbital gyrus,is a,intermediate orbital gyrus,UBERON:0002644,rdfs:subClassOf,UBERON:0002644
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_lower_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_upper_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_lower_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_upper_L,left lung hilus,is a,left lung hilus,UBERON:0004887,rdfs:subClassOf,UBERON:0004887
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_middle_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_upper_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888
+https://purl.humanatlas.io/ref-organ/lung-female/v1.4#primary,https://purl.humanatlas.io/ref-organ/lung-female/v1.4#VH_F_hilum_lower_R,right lung hilus,is a,right lung hilus,UBERON:0004888,rdfs:subClassOf,UBERON:0004888

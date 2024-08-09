@@ -4,6 +4,7 @@ export const PREFIX_MAP = {
   CL: 'http://purl.obolibrary.org/obo/CL_',
   rdfs: 'http://www.w3.org/2000/01/rdf-schema#',
   fma: 'http://purl.org/sig/ont/fma/',
+  FMA: 'http://purl.org/sig/ont/fma/',
   BFO: 'http://purl.obolibrary.org/obo/BFO_',
   RO: 'http://purl.obolibrary.org/obo/RO_'
 };

@@ -18,7 +18,7 @@ const ENDPOINT = 'https://ubergraph.apps.renci.org/sparql';
 
 const edges = Papa.parse(readFileSync(INPUT).toString(), { header: true }).data;
 const edgeValues = edges
-  .map(({ ref_organ, ref_organ_part, child, parent }) => `( ${ref_organ} ${ref_organ_part} ${child} ${parent} )`)
+  .map(({ ref_organ, ref_organ_part, child, parent }) => `( <${ref_organ}> <${ref_organ_part}> ${child} ${parent} )`)
   .join(' ');
 const predicates = PREDICATES.map((p) => `( ${p} )`).join(' ');
 
@@ -77,7 +77,7 @@ writeFileSync(
 writeFileSync(
   REPORT,
   `
-# HRA v1.4 Validation Report
+# HRA v2.1 Validation Report
 
 ## Implicit 3D reference organ 'part of' relationships
 
