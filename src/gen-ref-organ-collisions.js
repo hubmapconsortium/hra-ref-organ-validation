@@ -23,24 +23,28 @@ for (const [glbUrl, rows] of Object.entries(glb2rows)) {
     console.log(new Date().toISOString(), 'requesting', glbUrl);
     sh.rm('-f', '.temp_model.glb', '.temp_collisions.csv');
     sh.exec(`curl -s "${glbUrl}" -o .temp_model.glb`);
-    sh.exec(`python ../hra-glb-mesh-collisions/mesh-mesh-collisions.py .temp_model.glb .temp_collisions.csv`, { silent: false });
+    sh.exec(`python ../hra-glb-mesh-collisions/mesh-mesh-collisions.py .temp_model.glb .temp_collisions.csv`, {
+      silent: false,
+    });
 
     const csvText = readFileSync('.temp_collisions.csv').toString();
     const csvRows = Papa.parse(csvText, { header: true, dynamicTyping: true, skipEmptyLines: true }).data;
 
     for (const collision of csvRows) {
-      if (termLookup[collision.source] && termLookup[collision.target]) {
+      const sourceTerm = termLookup[collision.source];
+      const targetTerm = termLookup[collision.target];
+      if (sourceTerm && targetTerm && sourceTerm !== targetTerm) {
         results.push({
           ref_organ: refOrgan,
           ref_organ_part: refOrgan.replace('#primary', `#${collision.source}`),
-          parent: termLookup[collision.source],
-          child: termLookup[collision.target],
+          parent: sourceTerm,
+          child: targetTerm,
         });
         results.push({
           ref_organ: refOrgan,
           ref_organ_part: refOrgan.replace('#primary', `#${collision.target}`),
-          parent: termLookup[collision.target],
-          child: termLookup[collision.source],
+          parent: targetTerm,
+          child: sourceTerm,
         });
       }
     }
