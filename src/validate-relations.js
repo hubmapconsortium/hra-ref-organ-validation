@@ -135,7 +135,7 @@ writeFileSync(
 writeFileSync(
   REPORT,
   `
-# HRA v1.4 Validation Report (Only UBERON terms)
+# HRA v2.1 Validation Report (Only UBERON terms)
 
 ## Implicit 3D reference organ 'part of' relationships
 
