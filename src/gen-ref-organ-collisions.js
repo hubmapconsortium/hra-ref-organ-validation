@@ -18,7 +18,7 @@ const results = [];
 for (const [glbUrl, rows] of Object.entries(glb2rows)) {
   if (rows.length > 1) {
     const refOrgan = rows[0].reference_organ;
-    const termLookup = Object.fromEntries(rows.map((row) => [row.node_name, row.ontologyID]));
+    const termLookup = Object.fromEntries(rows.map((row) => [row.node_name, { id: row.ontologyID, label: row.label }]));
 
     console.log(new Date().toISOString(), 'requesting', glbUrl);
     sh.rm('-f', '.temp_model.glb', '.temp_collisions.csv');
@@ -33,18 +33,22 @@ for (const [glbUrl, rows] of Object.entries(glb2rows)) {
     for (const collision of csvRows) {
       const sourceTerm = termLookup[collision.source];
       const targetTerm = termLookup[collision.target];
-      if (sourceTerm && targetTerm && sourceTerm !== targetTerm) {
+      if (sourceTerm && targetTerm && sourceTerm.id !== targetTerm.id) {
         results.push({
           ref_organ: refOrgan,
           ref_organ_part: refOrgan.replace('#primary', `#${collision.source}`),
-          parent: sourceTerm,
-          child: targetTerm,
+          parent: sourceTerm.id,
+          child: targetTerm.id,
+          parent_label: sourceTerm.label,
+          child_label: targetTerm.label,
         });
         results.push({
           ref_organ: refOrgan,
           ref_organ_part: refOrgan.replace('#primary', `#${collision.target}`),
-          parent: targetTerm,
-          child: sourceTerm,
+          parent: targetTerm.id,
+          child: sourceTerm.id,
+          parent_label: targetTerm.label,
+          child_label: sourceTerm.label,
         });
       }
     }
