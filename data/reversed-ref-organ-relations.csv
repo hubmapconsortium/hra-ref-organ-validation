@@ -1,0 +1,24 @@
+ref_organ,ref_organ_part,slabel,plabel,olabel,s,p,o
+ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_internal_cervical_os,internal cervical os,part of,uterine cervix,UBERON:0013759,BFO:0000050,UBERON:0000002
+ccf:VHFUterus,ccf:VHFemaleOrgans_VH_F_external_cervical_os,external cervical os,part of,uterine cervix,UBERON:0013760,BFO:0000050,UBERON:0000002
+ccf:VHMHeart,ccf:VHMaleOrgans_VH_M_aortic_valve,aortic valve,part of,heart left ventricle,UBERON:0002137,BFO:0000050,UBERON:0002084
+ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lobar_bronchi_R,lobar bronchus of right lung,connected to,bronchus,UBERON:0003404,RO:0002170,UBERON:0002185
+ccf:VHMLungV1.1,ccf:VHMaleOrgans_VH_M_lobar_bronchi_R,lobar bronchus of right lung,is a,bronchus,UBERON:0003404,rdfs:subClassOf,UBERON:0002185
+ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_tracheal_cartilage,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_tracheal_cartilage,trachea cartilage,part of,trachea,UBERON:0003604,BFO:0000050,UBERON:0003126
+ccf:VHMTrachea,ccf:VHMaleOrgans_VH_M_carina,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+ccf:VHFTrachea,ccf:VHFemaleOrgans_VH_F_carina,carina of trachea,part of,trachea,UBERON:0006679,BFO:0000050,UBERON:0003126
+ccf:VHMLymphNode,ccf:VHMaleOrgans_Yao_efferent_lymph_node,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+ccf:VHFLymphNode,ccf:VHFemaleOrgans_Yao_efferent_lymph_node,efferent lymphatic vessel,part of,lymph vasculature,UBERON:0010397,BFO:0000050,UBERON:0004536
+ccf:VHMHeart,ccf:VHMaleOrgans_VH_M_tricuspid_valve,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_tricuspid_valve,tricuspid valve,part of,right cardiac atrium,UBERON:0002134,BFO:0000050,UBERON:0002078
+ccf:VHMHeart,ccf:VHMaleOrgans_VH_M_mitral_valve,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+ccf:VHFHeartV1.1,ccf:VHFemaleOrgans_VH_F_mitral_valve,mitral valve,part of,left cardiac atrium,UBERON:0002135,BFO:0000050,UBERON:0002079
+ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_planum_polare_L,planum polare,part of,superior temporal gyrus,UBERON:0023861,BFO:0000050,UBERON:0002769
+ccf:VHMAllenBrain,ccf:VHMaleOrgans_Allen_planum_polare_R,planum polare,part of,superior temporal gyrus,UBERON:0023861,BFO:0000050,UBERON:0002769
+ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_planum_polare_L,planum polare,part of,superior temporal gyrus,UBERON:0023861,BFO:0000050,UBERON:0002769
+ccf:VHFAllenBrain,ccf:VHFemaleOrgans_Allen_planum_polare_R,planum polare,part of,superior temporal gyrus,UBERON:0023861,BFO:0000050,UBERON:0002769
+ccf:VHMUrinaryBladder,ccf:VHMaleOrgans_VH_M_trigone_of_urinary_bladder,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+ccf:VHFUrinaryBladder,ccf:VHFemaleOrgans_VH_F_trigone_of_urinary_bladder,trigone of urinary bladder,part of,fundus of urinary bladder,UBERON:0001257,BFO:0000050,UBERON:0006082
+ccf:VHMPancreas,ccf:VHMaleOrgans_VH_M_uncinate_process_of_the_pancreas,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069
+ccf:VHFPancreas,ccf:VHFemaleOrgans_VH_F_uncinate_process,uncinate process of pancreas,part of,head of pancreas,UBERON:0010373,BFO:0000050,UBERON:0001069

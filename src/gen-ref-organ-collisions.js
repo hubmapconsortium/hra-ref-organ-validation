@@ -1,6 +1,5 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import Papa from 'papaparse';
-import sh from 'shelljs';
 
 const AS_3D_CSV = 'https://grlc.io/api-git/hubmapconsortium/ccf-grlc/subdir/mesh-collision/anatomical-structures.csv';
 const RELATIONS = 'data/ref-organ-relations.csv';
